@@ -41,7 +41,7 @@ County Votes:
 <b>In Conclusion, In the election total of 369,711 votes were cast. County Denver received the largest number of the votes( 306,055) and the candidate Diana DeGette    won the election with 272,892 number of the total votes.</b>
 
 ## The county with the largest number of voters is saved in the election_results.txt file.
-
+![Test Image](/Resources/Election_Analysis.png)
 
 
 
