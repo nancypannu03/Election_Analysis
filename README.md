@@ -16,7 +16,7 @@ The main purpose of this project is to figure out:
 ## Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 ## How many votes were cast in this congressional election?
-- There were total of 369711 votes were casted in the election.
+- There were total of 369711 votes were cast in the election.
 
 ## Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 County Votes:
@@ -38,6 +38,7 @@ County Votes:
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
+# In Conclusion, In the election total of 369,711 votes were cast. County Denver received
 
 # Election Audit Summary
 ## There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
