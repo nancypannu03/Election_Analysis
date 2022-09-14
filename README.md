@@ -43,7 +43,7 @@ County Votes:
 ## The county with the largest number of voters is saved in the election_results.txt file.
 
 
-![Test Image](/Resources/Election_Analysis.png)
+
 
 
 # Election Audit Summary
