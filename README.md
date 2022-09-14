@@ -40,5 +40,8 @@ County Votes:
 
 <b>In Conclusion, In the election total of 369,711 votes were cast. County Denver received the largest number of the votes( 306,055) and the candidate Diana DeGette    won the election with 272,892 number of the total votes.</b>
 
+## The county with the largest number of voters is saved in the election_results.txt file.
+
+
 # Election Audit Summary
 ## There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
