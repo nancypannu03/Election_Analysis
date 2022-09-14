@@ -44,7 +44,8 @@ County Votes:
 ![Test Image](/Resources/Election_Analysis.png)
 
 ## County Code 
-  4a: Write a decision statement that checks that the
+
+     4a: Write a decision statement that checks that the
         # county does not match any existing county in the county list.
         if county_name not in county_list:
 
