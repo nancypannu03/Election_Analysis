@@ -43,5 +43,8 @@ County Votes:
 ## The county with the largest number of voters is saved in the election_results.txt file.
 
 
+![Test Image](/Resources/Election_Analysis.png)
+
+
 # Election Audit Summary
 ## There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
