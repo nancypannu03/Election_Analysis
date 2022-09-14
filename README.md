@@ -1,4 +1,5 @@
 # Election Analysis
+
 ## Overview of Election Audit
 In this project, we will be assisting a Colorado board of elections employee, Tom, in an election audit of tabulated results. We will go through the provided csv file and perform read and write functions with additional decision statements and logical operations in order to conclude the desired results.
 
@@ -13,37 +14,37 @@ The main purpose of this project is to figure out:
 - writing the winning candidate results and the county election results to the election_results.txt text file.
 
 # Election Audit Results:
-## Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-## How many votes were cast in this congressional election?
+ ## How many votes were cast in this congressional election?
 - There were total of 369711 votes were cast in the election.
 
-## Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+ ## Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 County Votes:
 - Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 6.7% (24,801)
 
-## Which county had the largest number of votes?
+ ## Which county had the largest number of votes?
 - Largest County Turnout: Denver
 
-## Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+ ## Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - Charles Casper Stockham: 23.0% (85,213)
 - Diana DeGette: 73.8% (272,892)
 - Raymon Anthony Doane: 3.1% (11,606)
 
 
-## Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+ ## Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 - Winner: Diana DeGette
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
 <b>In Conclusion, In the election total of 369,711 votes were cast. County Denver received the largest number of the votes( 306,055) and the candidate Diana DeGette    won the election with 272,892 number of the total votes.</b>
 
-## The county with the largest number of voters is saved in the election_results.txt file.
+ ## The county with the largest number of voters is saved in the election_results.txt file.
+ 
 ![Test Image](/Resources/Election_Analysis.png)
 
-## County Code 
+ ## County Code 
 
      4a: Write a decision statement that checks that the
         # county does not match any existing county in the county list.
@@ -85,8 +86,8 @@ County Votes:
             largest_county_percentage = county_vote_percentage
             largest_county_turnout = county
             
-## Candidate Code
-if candidate_name not in candidate_options:
+ ## Candidate Code
+    if candidate_name not in candidate_options:
 
             # Add the candidate name to the candidate list.
             candidate_options.append(candidate_name)
