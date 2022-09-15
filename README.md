@@ -11,7 +11,7 @@ The main purpose of this project is to figure out:
 - Each county and its total vote count.
 - Each county and its percentage of the total votes.
 - The county with the largest number of voters is printed to the terminal.
-- writing the winning candidate results and the county election results to the election_results.txt text file.
+- Writing the winning candidate results and the county election results to the election_results.txt text file.
 
 # Election Audit Results:
 
