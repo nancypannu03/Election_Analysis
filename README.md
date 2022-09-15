@@ -113,4 +113,7 @@ County Votes:
 
 # Election Audit Summary
 
-## There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Give at least two examples of how this script can be modified to be used for other elections.
+- This script will be used to audit not only other congressional districts, but also senatorial districts and local elections.
+- We can use crypto function such as encrypt or decrypt methods to protect the security of digital voting systems. Malwares can disrupt the regular voting procedure   and slow or completely shut down the entire system. In order to protect the systems from such malicious attacks cyber security is high priority for the election     administrators.
+- We can perform Parallel testing, this process will identify any concerns related to the voting system which hinders or disrupts the elections.
