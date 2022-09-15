@@ -16,7 +16,7 @@ The main purpose of this project is to figure out:
 # Election Audit Results:
 
  ## How many votes were cast in this congressional election?
-- There were total of 369711 votes were cast in the election.
+- There were total of <b>369,711<b/> votes were cast in the election.
 
  ## Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 County Votes:
